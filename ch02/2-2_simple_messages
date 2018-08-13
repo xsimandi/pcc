@@ -1,0 +1,5 @@
+msg = 'Hi, this is a message!'
+print(msg)
+msg = 'Python is a snake.'
+print(msg)
+
